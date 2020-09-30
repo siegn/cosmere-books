@@ -89,3 +89,13 @@ One of my problems with some forms of media like extended network television sho
 
 As for the Kaladn/Adolin/Shallan interactions, I actively look for moments like these to put into the novels. It's important to let the characters live, and one of the reasons I enjoy epic fantasy is that it (with the space afforded me) allows for more time like this.
 EOT
+
+$annotations[9] = <<EOT
+Most of you probably know that it has been important to me to keep the cosmere behind-the-scenes for most of the book series. I don't want a person to have to track all the different books in order to enjoy the one they're currently reading.
+
+The large-scale plan for the books, however, has them slowly converging toward certain events in the future. Less "cross-overs" and more that the nature of what I'm creating is about different worlds who share a background, history, and (eventually) future.
+
+So we're slowly moving out of what I'd call the "each series separate" era of the cosmere and into the "careful mixing" era. The goal for these books will be to still make it that you don't feel you need to remember everything, or need to follow everything. I hope to be able to walk this particular tightrope in such a way that someone who has never read any of the other cosmere books doesn't feel left out--but rather, that there are mysterious and interesting things happening, but the core stories still make sense. However, if I want to lay the groundwork for what I eventually want to do, it will require more bleed-over than I've allowed in the past.
+
+This chapter is one of those that illustrates this new philosophy on my part--the "let them mix, but try to do it in a way that doesn't undermine the integrity of the series" philosophy. We'll see how well I manage it. FYI, Chapter Fifteen goes even a little further in this area than this chapter did. (Though don't expect full-blown cross-contamination between the series until the space age Cosmere era, which is still a ways off.)
+EOT
